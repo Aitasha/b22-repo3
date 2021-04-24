@@ -11,3 +11,6 @@ Now our work will continue locally
 2. committed the change to local repo
 3. we wnat this change to be reflected in remote repository
 4. Observe it has been added to your repository under Github.com
+
+to save=>CTRL + S
+
